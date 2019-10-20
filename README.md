@@ -13,7 +13,7 @@ the lbrycrd wallet. During first run lighthouse will populate a name database, t
 
 **Testing**
 
-This server is run by lighthouse1.lbry.io, lighthouse2.lbry.io, and lighthouse3.lbry.io. The default port lighthouse uses is 50005.
+This server is run by [lighthouse1.lbry.io](lighthouse1.lbry.io), [lighthouse2.lbry.io](lighthouse2.lbry.io), and [lighthouse3.lbry.io](lighthouse3.lbry.io). The default port lighthouse uses is 50005.
 
 To interact with lighthouse from a python terminal, run the following:
 
